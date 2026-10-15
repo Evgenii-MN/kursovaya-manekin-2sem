@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+<PropertyGroup><Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration><Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform><ProjectGuid>{AD082D08-8762-40BD-BF8B-AAB4AC54EB03}</ProjectGuid><OutputType>Exe</OutputType><RootNamespace>AutoSalon</RootNamespace><AssemblyName>AutoSalon</AssemblyName><TargetFrameworkVersion>v4.8</TargetFrameworkVersion><OutputPath>bin\</OutputPath></PropertyGroup>
+<ItemGroup><Reference Include="System"/><Reference Include="System.Core"/><Reference Include="System.Xml"/><Reference Include="System.Runtime.Serialization"/><Compile Include="*.cs"/></ItemGroup>
+<Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets"/>
+</Project>
+

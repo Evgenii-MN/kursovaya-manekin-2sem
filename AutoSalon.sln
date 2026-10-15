@@ -1,0 +1,18 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoSalon", "src\AutoSalon\AutoSalon.csproj", "{AD082D08-8762-40BD-BF8B-AAB4AC54EB03}"
+EndProject
+Global
+ GlobalSection(SolutionConfigurationPlatforms) = preSolution
+  Debug|Any CPU = Debug|Any CPU
+  Release|Any CPU = Release|Any CPU
+ EndGlobalSection
+ GlobalSection(ProjectConfigurationPlatforms) = postSolution
+  {AD082D08-8762-40BD-BF8B-AAB4AC54EB03}.Debug|Any CPU.ActiveCfg = Debug|AnyCPU
+  {AD082D08-8762-40BD-BF8B-AAB4AC54EB03}.Debug|Any CPU.Build.0 = Debug|AnyCPU
+  {AD082D08-8762-40BD-BF8B-AAB4AC54EB03}.Release|Any CPU.ActiveCfg = Release|AnyCPU
+  {AD082D08-8762-40BD-BF8B-AAB4AC54EB03}.Release|Any CPU.Build.0 = Release|AnyCPU
+ EndGlobalSection
+EndGlobal
